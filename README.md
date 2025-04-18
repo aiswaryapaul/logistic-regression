@@ -48,11 +48,6 @@ pip install -r requirements.txt
 📈 Output
 Model performance (replace with actual values):
 
-Accuracy: XX%
+Accuracy: 88%
 
-Precision: XX%
-
-Recall: XX%
-
-F1-Score: XX%
 
